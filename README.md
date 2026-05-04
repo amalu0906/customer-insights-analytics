@@ -111,17 +111,6 @@ To build a customer insights dashboard that:
 * Monitor trends to support planning and forecasting
 
 ---
-
-## 🧱 Dashboard Design Approach
-
-![Wireframe](powerbi/wireframe.png)
-
-Designed using a top-down approach:
-
-**KPIs → Trends → Segmentation → Retention**
-
----
-
 ## ⚙️ Data Model
 
 ![Data Model](powerbi/data_model.png)
