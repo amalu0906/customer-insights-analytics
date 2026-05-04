@@ -41,37 +41,6 @@ To build a customer insights dashboard that:
 
 ---
 
-## 📁 Project Structure
-
-```text
-├── data/
-│   └── processed/              # Cleaned datasets used in Power BI
-│
-├── images/                     # Dashboard screenshots
-│   ├── dashboard_overview.png
-│   ├── revenue_trend.png
-│   ├── customer_segments.png
-│   ├── churn_analysis.png
-│   └── top_customers.png
-│
-├── powerbi/
-│   ├── customer_insights_dashboard.pbix
-│   ├── powerbi_measures.md
-│   ├── data_model.png
-│   ├── wireframe.png
-│   └── powerbi_notes.md
-│
-├── sql/                        # Optional SQL logic
-│   ├── data_cleaning.sql
-│   ├── monthly_summary.sql
-│   └── rfm_segmentation.sql
-│
-├── insights_summary.md
-└── README.md
-```
-
----
-
 ## 📊 Dashboard Overview
 
 ### 🔹 KPI Cards
@@ -170,17 +139,6 @@ See:
 ```text
 powerbi/powerbi_measures.md
 ```
-
----
-
-## 🗣️ How to Explain This Project (Interview)
-
-This project demonstrates the ability to:
-
-* Transform raw transactional data into structured datasets
-* Build customer segmentation and churn logic
-* Design a clear and business-focused dashboard
-* Communicate insights effectively to stakeholders
 
 ---
 
